@@ -8,5 +8,6 @@ target 'Lucky Trip' do
   # Pods for Lucky Trip
   pod 'Alamofire', '~> 5.4'
   pod 'SwiftyJSON', '~> 4.0'
+  pod 'MaterialComponents/Chips'
 
 end
